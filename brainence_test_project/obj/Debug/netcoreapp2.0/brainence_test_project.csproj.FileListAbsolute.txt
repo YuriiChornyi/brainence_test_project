@@ -1,0 +1,10 @@
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\bin\Debug\netcoreapp2.0\brainence_test_project.deps.json
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\bin\Debug\netcoreapp2.0\brainence_test_project.runtimeconfig.json
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\bin\Debug\netcoreapp2.0\brainence_test_project.runtimeconfig.dev.json
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\bin\Debug\netcoreapp2.0\brainence_test_project.dll
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\bin\Debug\netcoreapp2.0\brainence_test_project.pdb
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\obj\Debug\netcoreapp2.0\brainence_test_project.csproj.CoreCompileInputs.cache
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\obj\Debug\netcoreapp2.0\brainence_test_project.AssemblyInfoInputs.cache
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\obj\Debug\netcoreapp2.0\brainence_test_project.AssemblyInfo.cs
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\obj\Debug\netcoreapp2.0\brainence_test_project.dll
+C:\Users\Yurii Chornyi\Desktop\brainence_test_project\brainence_test_project\obj\Debug\netcoreapp2.0\brainence_test_project.pdb

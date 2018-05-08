@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brainence_test_project", "brainence_test_project\brainence_test_project.csproj", "{FFBFEAB7-596B-44B4-A561-A8E6A935BB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBFEAB7-596B-44B4-A561-A8E6A935BB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBFEAB7-596B-44B4-A561-A8E6A935BB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBFEAB7-596B-44B4-A561-A8E6A935BB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBFEAB7-596B-44B4-A561-A8E6A935BB43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
