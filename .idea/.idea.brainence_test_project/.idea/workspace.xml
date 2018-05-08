@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091982b-076e-4be5-beb6-d950bac34dd8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/brainence_test_project/Models/Data/DbInit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brainence_test_project/Models/Data/SentenceContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brainence_test_project/Models/Sentence.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/brainence_test_project.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/brainence_test_project.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.js" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,8 +30,184 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SentenceContext.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/SentenceContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+              <folding>
+                <marker date="1525790248851" expanded="true" signature="82:307" ph="{...}" />
+                <marker date="1525790248851" expanded="true" signature="127:305" ph="{...}" />
+                <marker date="1525790248851" expanded="true" signature="223:243" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startup.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <marker date="1525790347985" expanded="true" signature="6:337" ph="..." />
+                <marker date="1525790347985" expanded="true" signature="371:1624" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="398:1622" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="457:520" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="743:951" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="1139:1616" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="1186:1263" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="1280:1364" ph="{...}" />
+                <marker date="1525790347985" expanded="true" signature="1433:1604" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="2" column="56" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbInit.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/DbInit.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+              <folding>
+                <marker date="1525791826833" expanded="true" signature="91:1344" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="124:1342" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="193:1336" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="291:343" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="400:1178" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="447:725" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="772:1164" ph="{...}" />
+                <marker date="1525791826833" expanded="true" signature="1220:1290" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowSentence.cshtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+              <folding>
+                <marker date="1525791955849" expanded="false" signature="6:345" ph="..." />
+                <marker date="1525791955849" expanded="true" signature="379:1308" ph="{...}" />
+                <marker date="1525791955849" expanded="true" signature="406:1306" ph="{...}" />
+                <marker date="1525791955849" expanded="true" signature="459:1125" ph="{...}" />
+                <marker date="1525791955849" expanded="true" signature="564:1077" ph="{...}" />
+                <marker date="1525791955849" expanded="true" signature="652:818" ph="{...}" />
+                <marker date="1525791955849" expanded="true" signature="855:1063" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525788042245" expanded="false" signature="6:191" ph="..." />
+                <marker date="1525788042245" expanded="true" signature="237:853" ph="{...}" />
+                <marker date="1525788042245" expanded="true" signature="284:851" ph="{...}" />
+                <marker date="1525788042245" expanded="true" signature="327:374" ph="{...}" />
+                <marker date="1525788042245" expanded="true" signature="412:532" ph="{...}" />
+                <marker date="1525788042245" expanded="true" signature="572:676" ph="{...}" />
+                <marker date="1525788042245" expanded="true" signature="714:845" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.cshtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+              <folding>
+                <marker date="1525805600363" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1525805600363" expanded="true" signature="43:797" ph="&lt;div.../&gt;" />
+                <marker date="1525805600363" expanded="true" signature="65:790" ph="&lt;div.../&gt;" />
+                <marker date="1525805600363" expanded="true" signature="89:775" ph="@..." />
+                <marker date="1525805600363" expanded="true" signature="187:775" ph="{...}" />
+                <marker date="1525805600363" expanded="true" signature="195:773" ph="&lt;fieldset.../&gt;" />
+                <marker date="1525805600363" expanded="true" signature="251:445" ph="&lt;div.../&gt;" />
+                <marker date="1525805600363" expanded="true" signature="454:632" ph="&lt;div.../&gt;" />
+                <marker date="1525805600363" expanded="true" signature="641:748" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bundleconfig.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/brainence_test_project/bundleconfig.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/DbInit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/SentenceContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Models/Sentence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/brainence_test_project/Models/Sentence.cs" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Models/Data/SentenceContext.cs" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Startup.cs" />
+        <option value="$PROJECT_DIR$/brainence_test_project/appsettings.json" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Models/Data/DbInit.cs" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Program.cs" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/brainence_test_project/wwwroot/js/index.js" />
+        <option value="$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.js" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -20,13 +215,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="72" />
     <option name="y" value="20" />
     <option name="width" value="1284" />
     <option name="height" value="728" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -44,6 +241,39 @@
               <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Views" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Home" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Partitial" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="brainence_test_project (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="brainence_test_project" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="wwwroot" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -56,6 +286,8 @@
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,7 +319,7 @@
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
-      <browser start="true" url="http://localhost:5000" />
+      <browser url="http://localhost:5000" />
     </configuration>
   </component>
   <component name="TaskManager">
@@ -97,12 +329,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525788012454</updated>
-      <workItem from="1525788019386" duration="925000" />
+      <workItem from="1525788019386" duration="9686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="925000" />
+    <option name="totallyTimeSpent" value="9686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -114,21 +346,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Messages" weight="0.32985386" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" anchor="bottom" id="NuGet" visible="true" weight="0.32985386" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info anchor="bottom" id="REST Client" weight="0.32984293" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32984293" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4876161" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32972136" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28492063" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" weight="0.32972136" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" side_tool="true" />
@@ -147,5 +381,194 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Models/Sentence.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1525790077307" expanded="true" signature="85:310" ph="{...}" />
+            <marker date="1525790077307" expanded="true" signature="113:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/SentenceContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+          <folding>
+            <marker date="1525790248851" expanded="true" signature="82:307" ph="{...}" />
+            <marker date="1525790248851" expanded="true" signature="127:305" ph="{...}" />
+            <marker date="1525790248851" expanded="true" signature="223:243" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <marker date="1525790347985" expanded="true" signature="6:337" ph="..." />
+            <marker date="1525790347985" expanded="true" signature="371:1624" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="398:1622" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="457:520" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="743:951" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="1139:1616" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="1186:1263" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="1280:1364" ph="{...}" />
+            <marker date="1525790347985" expanded="true" signature="1433:1604" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="56" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
+          <folding>
+            <marker date="1525791955849" expanded="false" signature="6:345" ph="..." />
+            <marker date="1525791955849" expanded="true" signature="379:1308" ph="{...}" />
+            <marker date="1525791955849" expanded="true" signature="406:1306" ph="{...}" />
+            <marker date="1525791955849" expanded="true" signature="459:1125" ph="{...}" />
+            <marker date="1525791955849" expanded="true" signature="564:1077" ph="{...}" />
+            <marker date="1525791955849" expanded="true" signature="652:818" ph="{...}" />
+            <marker date="1525791955849" expanded="true" signature="855:1063" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525788042245" expanded="false" signature="6:191" ph="..." />
+            <marker date="1525788042245" expanded="true" signature="237:853" ph="{...}" />
+            <marker date="1525788042245" expanded="true" signature="284:851" ph="{...}" />
+            <marker date="1525788042245" expanded="true" signature="327:374" ph="{...}" />
+            <marker date="1525788042245" expanded="true" signature="412:532" ph="{...}" />
+            <marker date="1525788042245" expanded="true" signature="572:676" ph="{...}" />
+            <marker date="1525788042245" expanded="true" signature="714:845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525788002695" expanded="true" signature="7:66" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="79" selection-start-line="44" selection-start-column="79" selection-end-line="44" selection-end-column="79" />
+          <folding>
+            <marker date="1525792589049" expanded="true" signature="16:3436" ph="&lt;html.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="23:856" ph="&lt;head.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="204:394" ph="&lt;environment.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="399:848" ph="&lt;environment.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="857:3428" ph="&lt;body.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="868:1942" ph="&lt;nav.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="929:1931" ph="&lt;div.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="965:1492" ph="&lt;div.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="1009:1353" ph="&lt;button.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="1505:1916" ph="&lt;div.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="1560:1897" ph="&lt;ul.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="1947:2203" ph="&lt;div.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="2029:2192" ph="&lt;footer.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="2209:2463" ph="&lt;environment.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="2468:3372" ph="&lt;environment.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="2512:2860" ph="&lt;script.../&gt;" />
+            <marker date="1525792589049" expanded="true" signature="2869:3278" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <marker date="1525788002675" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/bundleconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/wwwroot/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <marker date="1525805600363" expanded="true" signature="0:41" ph="@..." />
+            <marker date="1525805600363" expanded="true" signature="43:797" ph="&lt;div.../&gt;" />
+            <marker date="1525805600363" expanded="true" signature="65:790" ph="&lt;div.../&gt;" />
+            <marker date="1525805600363" expanded="true" signature="89:775" ph="@..." />
+            <marker date="1525805600363" expanded="true" signature="187:775" ph="{...}" />
+            <marker date="1525805600363" expanded="true" signature="195:773" ph="&lt;fieldset.../&gt;" />
+            <marker date="1525805600363" expanded="true" signature="251:445" ph="&lt;div.../&gt;" />
+            <marker date="1525805600363" expanded="true" signature="454:632" ph="&lt;div.../&gt;" />
+            <marker date="1525805600363" expanded="true" signature="641:748" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Models/Data/DbInit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding>
+            <marker date="1525791826833" expanded="true" signature="91:1344" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="124:1342" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="193:1336" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="291:343" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="400:1178" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="447:725" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="772:1164" ph="{...}" />
+            <marker date="1525791826833" expanded="true" signature="1220:1290" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

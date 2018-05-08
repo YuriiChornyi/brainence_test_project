@@ -13,7 +13,12 @@
           <e p="HomeController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
+          <e p="Data" t="Include">
+            <e p="DbInit.cs" t="Include" />
+            <e p="SentenceContext.cs" t="Include" />
+          </e>
           <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Sentence.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -31,6 +36,9 @@
             <e p="About.cshtml" t="Include" />
             <e p="Contact.cshtml" t="Include" />
             <e p="Index.cshtml" t="Include" />
+            <e p="Partitial" t="Include">
+              <e p="ShowSentence.cshtml" t="Include" />
+            </e>
           </e>
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
