@@ -2,69 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091982b-076e-4be5-beb6-d950bac34dd8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/About.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Contact.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/brainence_test_project.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/bundleconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/css/site.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/images/banner1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/images/banner2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/images/banner3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/images/banner4.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/js/site.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/bootstrap/dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brainence_test_project/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -82,7 +20,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="72" />
     <option name="y" value="20" />
     <option name="width" value="1284" />
@@ -159,12 +97,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525788012454</updated>
-      <workItem from="1525788019386" duration="293000" />
+      <workItem from="1525788019386" duration="925000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293000" />
+    <option name="totallyTimeSpent" value="925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,7 +114,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1874" height="1096" extended-state="7" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -187,8 +125,8 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32985386" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" visible="true" weight="0.32985386" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
+      <window_info active="true" anchor="bottom" id="NuGet" visible="true" weight="0.32985386" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972437" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" />
