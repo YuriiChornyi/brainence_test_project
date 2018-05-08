@@ -4,24 +4,26 @@
 
 <div class="row">
     <div class="col-md-12">
-@using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
-{ 
-    <fieldset>
-        <legend>Парсер слів</legend>
-        <div class="form-group" style="float: left; width: 50%">
-            <h4>Файли у форматі *.txt</h4>
-            <input type="file" name="file" accept="text/plain" id="fileInput"/>
-        </div>
-        <div class="form-group" style="float: right; width: 50%">
-            <h4>Слово для збігу</h4>
-            <input class="form-control" type="text" id="wordInput"/>
-        </div>
-        <div>
-            <input class="btn btn-info" type="submit" value="Submit" disabled="true"/>
-        </div>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        { 
+            <fieldset>
+                <legend>Парсер слів</legend>
+                <div class="form-group" style="float: left; width: 50%">
+                    <h4>Файли у форматі *.txt</h4>
+                    <input type="file" name="file" accept="text/plain" id="fileInput"/>
+                </div>
+                <div class="form-group" style="float: right; width: 50%">
+                    <h4>Слово для збігу</h4>
+                    <input class="form-control" type="text" name="word" id="wordInput"/>
+                </div>
+                <div>
+                    <input class="btn btn-info" type="submit" value="Submit" disabled="true"/>
+                </div>
         
-    </fieldset>
-}
+            </fieldset>
+        }
    
     </div>
+    
+    @Html.Partial("Partitial/ShowSentence")
 </div>

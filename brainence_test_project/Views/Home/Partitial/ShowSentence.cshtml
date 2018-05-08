@@ -1,1 +1,14 @@
-﻿@model Sentence
+﻿@{
+    <hr/>
+    foreach (var item in ViewBag.Sentences)
+    {
+        <div>
+            <span>
+                <p1>
+                    @item
+                </p1>
+            </span>
+        </div>
+        <hr/>
+    }
+}
