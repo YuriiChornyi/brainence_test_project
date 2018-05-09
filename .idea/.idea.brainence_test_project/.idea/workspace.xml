@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6091982b-076e-4be5-beb6-d950bac34dd8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.brainence_test_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Home/About.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Home/Contact.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Contact.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Home/Partitial/ShowSentence.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/bin/Debug/netcoreapp2.0/brainence_test_project.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.dll" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/brainence_test_project/obj/Debug/netcoreapp2.0/brainence_test_project.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -240,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525788012454</updated>
-      <workItem from="1525788019386" duration="14252000" />
+      <workItem from="1525788019386" duration="15093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14252000" />
+    <option name="totallyTimeSpent" value="15093000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -267,7 +255,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="REST Client" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4876161" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4876161" />
       <window_info anchor="bottom" id="Terminal" weight="0.32984293" />
       <window_info anchor="bottom" id="NuGet" weight="0.32972136" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20396826" />
@@ -323,7 +311,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs</url>
+          <url />
           <line>33</line>
           <properties documentPath="$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" initialLine="40">
             <startOffsets>
@@ -336,7 +324,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs</url>
+          <url />
           <line>41</line>
           <properties documentPath="$PROJECT_DIR$/brainence_test_project/Controllers/HomeController.cs" initialLine="42">
             <startOffsets>
